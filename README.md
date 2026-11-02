@@ -2,7 +2,7 @@
 
 If the Windows/Steam version of SnowRunner crashes on your Mac at the loading spinner or right at the title screen (CrossOver, Highball, Hadron...), this might be why.
 
-I figured this out together with Claude (the AI). I'm not a Wine developer, so take the explanation with that in mind.
+I figured this out together with Claude. I'm not a Wine developer, so take the explanation with that in mind.
 
 ## What's going on
 
